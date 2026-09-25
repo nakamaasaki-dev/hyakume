@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyakume"
+version = "0.1.0"
+description = "百目 (Hyakume): AI が生成した多数の仮想ペルソナに情報を収集させ、世界を俯瞰する情報集約ツール"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = [
+    "anthropic>=1.8.0",
+    "pydantic>=2.0",
+    "feedparser>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+hyakume = "hyakume.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["hyakume*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

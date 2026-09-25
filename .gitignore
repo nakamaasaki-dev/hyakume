@@ -1,0 +1,12 @@
+# hyakume runtime data (personas, collected items, digests)
+data/
+
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.env
+.pytest_cache/
