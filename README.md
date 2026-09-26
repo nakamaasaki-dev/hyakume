@@ -73,6 +73,24 @@ hyakume run -n 50
 
 環境変数 `HYAKUME_MODEL` / `HYAKUME_COLLECTOR_MODEL` / `HYAKUME_EFFORT` / `HYAKUME_DATA_DIR` でも既定値を変えられます（`.env.example` 参照）。
 
+## スマホや PC のブラウザで見る（GitHub Pages で自動公開）
+
+`.github/workflows/digest.yml` が毎朝 7 時（日本時間）に百目を実行し、最新のダイジェストを
+`https://<ユーザー名>.github.io/hyakume/` に公開します。手元で何も動かさなくても、
+URL を開くだけでスマホから読めます。
+
+初回だけ、GitHub のリポジトリページで次の設定をしてください。
+
+1. **Settings → Pages** の「Build and deployment」で Source を **GitHub Actions** にする
+2. **Settings → Secrets and variables → Actions → New repository secret** で
+   Name に `ANTHROPIC_API_KEY`、Secret に Anthropic の API キーを入れて保存する
+   （未設定の間はダミーデータで動くので、先に画面だけ確認できます）
+3. **Actions** タブ → 左の「digest」→ **Run workflow** で 1 回手動実行する
+
+無料プランでは GitHub Pages は公開リポジトリでのみ使えます。非公開のままにしたい場合は
+Settings → General の一番下「Change repository visibility」で公開に切り替えるか、
+有料プランをご検討ください。
+
 ## 出力
 
 `data/runs/<run_id>/digest.md` の構成:
