@@ -1,0 +1,1393 @@
+[
+  {
+    "name": "佐伯 玲",
+    "age": 34,
+    "occupation": "Jリーグクラブのスカウト担当",
+    "location": "神奈川・横浜",
+    "bio": "元大学サッカー部。移籍市場と育成年代の動向を毎日追い、欧州の試合はDAZNで深夜に観る。数字よりも現場の評判を信じるタイプ。",
+    "interests": [
+      "Jリーグ",
+      "海外組の日本人選手",
+      "移籍市場",
+      "育成年代サッカー",
+      "ワールドカップ予選"
+    ],
+    "search_queries": [
+      "Jリーグ 移籍 最新",
+      "日本代表 招集 メンバー",
+      "海外 日本人選手 活躍",
+      "ワールドカップ 2026 アジア予選",
+      "高校サッカー 注目選手"
+    ],
+    "preferred_domains": [
+      "soccer-king.jp",
+      "gekisaka.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_5e111667"
+  },
+  {
+    "name": "Marcus Bell",
+    "age": 41,
+    "occupation": "MLB専門のスポーツライター",
+    "location": "米国・シカゴ",
+    "bio": "セイバーメトリクス派。ポストシーズンとオフシーズンのFA市場を専門に書く。大谷翔平とダルビッシュの動向は必ずチェックする。",
+    "interests": [
+      "MLB",
+      "ポストシーズン",
+      "FA市場",
+      "大谷翔平",
+      "野球データ分析"
+    ],
+    "search_queries": [
+      "MLB playoffs 2026",
+      "Shohei Ohtani news",
+      "MLB free agency rumors",
+      "MLB trade news",
+      "Dodgers news"
+    ],
+    "preferred_domains": [
+      "mlb.com",
+      "espn.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_790a8762"
+  },
+  {
+    "name": "小林 千夏",
+    "age": 22,
+    "occupation": "体育大学の陸上部員（長距離）",
+    "location": "東京・世田谷",
+    "bio": "箱根駅伝を目指す大学3年生。練習日誌をつけ、海外のトレーニング理論やシューズの技術革新に敏感。",
+    "interests": [
+      "箱根駅伝",
+      "マラソン",
+      "ランニングシューズ",
+      "スポーツ科学",
+      "女子陸上"
+    ],
+    "search_queries": [
+      "箱根駅伝 予選会 結果",
+      "マラソン 日本記録",
+      "厚底シューズ 新モデル",
+      "陸上 世界選手権 日本",
+      "駅伝 大学 注目"
+    ],
+    "preferred_domains": [
+      "4years.asahi.com",
+      "rikujolive.com"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_41fcb791"
+  },
+  {
+    "name": "田中 稔",
+    "age": 68,
+    "occupation": "元高校野球監督・野球解説者",
+    "location": "兵庫・西宮",
+    "bio": "甲子園を30年見続けてきた。プロ野球のドラフトと高校野球の制度改革に関心が強く、投球数制限や暑さ対策の議論を追っている。",
+    "interests": [
+      "高校野球",
+      "プロ野球 ドラフト",
+      "阪神タイガース",
+      "野球の制度改革",
+      "地方の野球部の減少"
+    ],
+    "search_queries": [
+      "ドラフト 2026 注目選手",
+      "高校野球 改革 議論",
+      "阪神 最新 ニュース",
+      "プロ野球 日本シリーズ",
+      "野球部 部員減少"
+    ],
+    "preferred_domains": [
+      "nikkansports.com",
+      "daily.co.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_0c8431e4"
+  },
+  {
+    "name": "Léa Fontaine",
+    "age": 29,
+    "occupation": "フランスのラジオ局の音楽ディレクター",
+    "location": "フランス・パリ",
+    "bio": "インディーロックとエレクトロを中心に新譜を毎週100枚聴く。フェスのラインナップとストリーミングの新機能を追う。",
+    "interests": [
+      "インディーロック",
+      "エレクトロニック",
+      "音楽フェス",
+      "ストリーミング業界",
+      "ヴァイナル市場"
+    ],
+    "search_queries": [
+      "new album releases this week",
+      "Pitchfork best new music",
+      "music festival lineup 2027",
+      "Spotify new feature artists",
+      "vinyl sales 2026"
+    ],
+    "preferred_domains": [
+      "pitchfork.com",
+      "nme.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_4949fd2a"
+  },
+  {
+    "name": "高橋 慎一",
+    "age": 52,
+    "occupation": "レコード店店主（洋楽専門）",
+    "location": "大阪・アメリカ村",
+    "bio": "70年代ロックと90年代オルタナが専門。再発盤や来日公演の情報を客に伝えるのが仕事。ビルボードとUKチャートは毎週確認する。",
+    "interests": [
+      "洋楽ロック",
+      "来日公演",
+      "再発盤・リイシュー",
+      "ビルボードチャート",
+      "音楽ドキュメンタリー映画"
+    ],
+    "search_queries": [
+      "来日公演 2026 発表",
+      "洋楽 新譜 今週",
+      "リイシュー ボックスセット 発売",
+      "Billboard Hot 100 今週",
+      "ロック ドキュメンタリー 公開"
+    ],
+    "preferred_domains": [
+      "udiscovermusic.jp",
+      "rollingstonejapan.com"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_b8b7e490"
+  },
+  {
+    "name": "崔 志允 (Choi Ji-yoon)",
+    "age": 26,
+    "occupation": "K-POP事務所のA&Rスタッフ",
+    "location": "韓国・ソウル",
+    "bio": "デビュー前グループの企画を担当。日本と東南アジアの反応、ビルボードのK-POP動向、SNSでのバズを分析する。",
+    "interests": [
+      "K-POP",
+      "アイドル産業",
+      "音楽チャート",
+      "SNSトレンド",
+      "日韓エンタメ"
+    ],
+    "search_queries": [
+      "K-POP comeback this week",
+      "K-POP Japan debut 2026",
+      "Billboard K-pop chart",
+      "アイドル 日本 ドーム公演",
+      "HYBE SM JYP news"
+    ],
+    "preferred_domains": [
+      "soompi.com",
+      "koreaboo.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_98f338f8"
+  },
+  {
+    "name": "Amara Okafor",
+    "age": 31,
+    "occupation": "ナイジェリアのアフロビーツ・プロデューサー",
+    "location": "ナイジェリア・ラゴス",
+    "bio": "アフロビーツの世界進出の波に乗り、欧米レーベルとのコラボと配信数を追う。グラミーのアフリカ部門も注目。",
+    "interests": [
+      "アフロビーツ",
+      "アフリカ音楽の世界進出",
+      "音楽配信ビジネス",
+      "グラミー賞",
+      "ラゴスの音楽シーン"
+    ],
+    "search_queries": [
+      "Afrobeats news",
+      "Burna Boy Wizkid Rema latest",
+      "Grammy African music category",
+      "Afrobeats streaming record",
+      "Lagos music industry"
+    ],
+    "preferred_domains": [
+      "okayafrica.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_3ea12215"
+  },
+  {
+    "name": "森 由紀",
+    "age": 45,
+    "occupation": "映画配給会社の宣伝担当",
+    "location": "東京・渋谷",
+    "bio": "洋画・邦画問わず週に5本観る。興行収入ランキングと映画祭の受賞、配信と劇場の力関係の変化を仕事として追う。",
+    "interests": [
+      "映画興行",
+      "映画祭",
+      "アカデミー賞",
+      "配信サービス",
+      "邦画の海外展開"
+    ],
+    "search_queries": [
+      "映画 興行収入 ランキング 今週",
+      "東京国際映画祭 2026",
+      "アカデミー賞 前哨戦",
+      "Netflix 映画 話題",
+      "邦画 海外 ヒット"
+    ],
+    "preferred_domains": [
+      "eiga.com",
+      "cinemacafe.net"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_00efc36e"
+  },
+  {
+    "name": "長谷川 蓮",
+    "age": 19,
+    "occupation": "アニメ制作会社の新人制作進行",
+    "location": "東京・杉並",
+    "bio": "深夜アニメの制作現場で働き始めたばかり。業界の労働環境、海外配信の売上、制作会社の再編に強い関心。",
+    "interests": [
+      "アニメ業界",
+      "制作現場の労働環境",
+      "アニメの海外配信",
+      "声優",
+      "秋アニメ"
+    ],
+    "search_queries": [
+      "アニメ 制作会社 ニュース",
+      "アニメ 海外 売上 2026",
+      "秋アニメ 2026 話題",
+      "アニメーター 待遇 改善",
+      "劇場アニメ 興行 記録"
+    ],
+    "preferred_domains": [
+      "animeanime.jp",
+      "natalie.mu"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_69ada127"
+  },
+  {
+    "name": "David Chen",
+    "age": 37,
+    "occupation": "インディーゲーム開発者",
+    "location": "カナダ・バンクーバー",
+    "bio": "3人チームでSteam向けに開発。Steamのアルゴリズム変更、Unity/Unrealのライセンス、Switch後継機の動向が死活問題。",
+    "interests": [
+      "インディーゲーム",
+      "Steam",
+      "ゲームエンジン",
+      "任天堂の新ハード",
+      "ゲーム業界のレイオフ"
+    ],
+    "search_queries": [
+      "Steam Next Fest indie",
+      "Nintendo Switch 2 sales",
+      "game industry layoffs 2026",
+      "Unity Unreal pricing news",
+      "indie game hit 2026"
+    ],
+    "preferred_domains": [
+      "gamesindustry.biz",
+      "gamedeveloper.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_05d54905"
+  },
+  {
+    "name": "山下 亮太",
+    "age": 24,
+    "occupation": "ゲーム実況配信者",
+    "location": "福岡",
+    "bio": "YouTubeとTwitchで毎晩配信。新作の発売日、配信規約の変更、eスポーツの賞金大会を追う。",
+    "interests": [
+      "ゲーム実況",
+      "eスポーツ",
+      "新作ゲーム",
+      "配信プラットフォーム",
+      "VTuber"
+    ],
+    "search_queries": [
+      "新作ゲーム 発売日 今月",
+      "eスポーツ 大会 賞金 2026",
+      "YouTube 配信 規約 変更",
+      "VTuber ニュース",
+      "Switch 新作 話題"
+    ],
+    "preferred_domains": [
+      "4gamer.net",
+      "famitsu.com"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_605d4fc6"
+  },
+  {
+    "name": "佐藤 美咲",
+    "age": 30,
+    "occupation": "ファッション誌のウェブ編集者",
+    "location": "東京・港区",
+    "bio": "パリ・ミラノのコレクションからユニクロのコラボまで守備範囲。サステナブル素材とリセール市場の成長を追う。",
+    "interests": [
+      "ファッションウィーク",
+      "ラグジュアリーブランド",
+      "サステナブルファッション",
+      "リセール市場",
+      "ユニクロ・無印"
+    ],
+    "search_queries": [
+      "パリコレ 2027春夏",
+      "ラグジュアリー ブランド 業績",
+      "ユニクロ コラボ 発売",
+      "古着 リセール 市場 成長",
+      "ファッション サステナブル 素材"
+    ],
+    "preferred_domains": [
+      "wwdjapan.com",
+      "fashionsnap.com"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_307904a2"
+  },
+  {
+    "name": "Sofia Rossi",
+    "age": 27,
+    "occupation": "美容系インフルエンサー",
+    "location": "イタリア・ミラノ",
+    "bio": "スキンケア成分とコスメの新作をレビュー。韓国コスメと日本のドラッグストアコスメの欧州進出を追っている。",
+    "interests": [
+      "スキンケア",
+      "コスメ新作",
+      "韓国コスメ",
+      "美容医療",
+      "TikTokトレンド"
+    ],
+    "search_queries": [
+      "skincare trend 2026",
+      "K-beauty Europe launch",
+      "Japanese beauty brand Europe",
+      "beauty industry news",
+      "viral makeup TikTok"
+    ],
+    "preferred_domains": [
+      "allure.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_e290be51"
+  },
+  {
+    "name": "大野 春香",
+    "age": 39,
+    "occupation": "料理研究家・フードライター",
+    "location": "京都",
+    "bio": "発酵食と郷土料理が専門。食品の値上げ、米の価格、ミシュラン、料理系YouTubeの潮流を追う。",
+    "interests": [
+      "発酵食",
+      "郷土料理",
+      "食品の値上げ",
+      "ミシュランガイド",
+      "料理動画"
+    ],
+    "search_queries": [
+      "食品 値上げ 10月",
+      "米 価格 最新",
+      "ミシュラン 京都 2027",
+      "発酵食 ブーム",
+      "料理 YouTuber 人気"
+    ],
+    "preferred_domains": [
+      "macaro-ni.jp",
+      "foodwatch.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_47d0714e"
+  },
+  {
+    "name": "鈴木 健",
+    "age": 58,
+    "occupation": "地方総合病院の内科部長",
+    "location": "秋田",
+    "bio": "医師不足の地方で診療。新薬承認、感染症の流行状況、医師の働き方改革、オンライン診療の制度を追う。",
+    "interests": [
+      "感染症の流行",
+      "新薬承認",
+      "医師の働き方改革",
+      "地域医療",
+      "オンライン診療"
+    ],
+    "search_queries": [
+      "インフルエンザ 流行 最新",
+      "新薬 承認 厚労省",
+      "医師 働き方改革 影響",
+      "地域医療 医師不足 対策",
+      "コロナ 新変異株"
+    ],
+    "preferred_domains": [
+      "m3.com",
+      "medical.nikkeibp.co.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_6372482a"
+  },
+  {
+    "name": "Emily Watson",
+    "age": 44,
+    "occupation": "製薬会社のメディカルサイエンスリエゾン",
+    "location": "英国・ロンドン",
+    "bio": "肥満症治療薬とアルツハイマー治療薬の臨床試験を追う。FDAとEMAの承認動向、製薬大手のM&Aも守備範囲。",
+    "interests": [
+      "肥満症治療薬",
+      "アルツハイマー病治療",
+      "FDA承認",
+      "製薬M&A",
+      "臨床試験"
+    ],
+    "search_queries": [
+      "GLP-1 obesity drug news",
+      "Alzheimer drug approval 2026",
+      "FDA approval this week",
+      "pharma acquisition 2026",
+      "clinical trial results phase 3"
+    ],
+    "preferred_domains": [
+      "fiercepharma.com",
+      "statnews.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_cce507ce"
+  },
+  {
+    "name": "中村 恵",
+    "age": 36,
+    "occupation": "小学生二人の母・パート勤務",
+    "location": "埼玉・川口",
+    "bio": "子育てと家計が最大関心事。児童手当、給食費無償化、習い事の費用、子どものスマホ利用について調べる。",
+    "interests": [
+      "子育て支援制度",
+      "家計と物価",
+      "小学校教育",
+      "子どものスマホ・SNS",
+      "習い事"
+    ],
+    "search_queries": [
+      "児童手当 拡充 2026",
+      "給食費 無償化 自治体",
+      "子ども スマホ 制限 議論",
+      "物価高 家計 対策",
+      "小学生 習い事 費用"
+    ],
+    "preferred_domains": [
+      "benesse.jp",
+      "mamari.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_0da1719d"
+  },
+  {
+    "name": "木村 拓",
+    "age": 47,
+    "occupation": "公立高校の社会科教師",
+    "location": "北海道・旭川",
+    "bio": "探究学習と大学入試改革を担当。教員の働き方、不登校の増加、生成AIの教育利用に関心。",
+    "interests": [
+      "大学入試改革",
+      "教員の働き方",
+      "不登校",
+      "生成AIと教育",
+      "探究学習"
+    ],
+    "search_queries": [
+      "大学入学共通テスト 2027 変更",
+      "教員 残業 給特法",
+      "不登校 過去最多 対策",
+      "生成AI 授業 活用",
+      "高校 探究 事例"
+    ],
+    "preferred_domains": [
+      "kyobun.co.jp",
+      "resemom.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_dfabab6f"
+  },
+  {
+    "name": "松本 大輔",
+    "age": 62,
+    "occupation": "稲作農家（15ha）",
+    "location": "新潟・魚沼",
+    "bio": "米価の乱高下に翻弄されている。農政、肥料価格、スマート農業、後継者問題を追う。",
+    "interests": [
+      "米価",
+      "農政・補助金",
+      "肥料・燃料価格",
+      "スマート農業",
+      "農業の後継者問題"
+    ],
+    "search_queries": [
+      "米 価格 農家 2026",
+      "農林水産省 補助金 米",
+      "肥料 価格 高騰",
+      "スマート農業 ドローン",
+      "農業 後継者 不足"
+    ],
+    "preferred_domains": [
+      "agrinews.co.jp",
+      "maff.go.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_3de7a194"
+  },
+  {
+    "name": "井上 咲",
+    "age": 28,
+    "occupation": "ITスタートアップの機械学習エンジニア",
+    "location": "東京・五反田",
+    "bio": "LLMを使ったプロダクト開発。新モデルのリリース、推論コスト、AIエージェント、日本のAI規制を追う。",
+    "interests": [
+      "大規模言語モデル",
+      "AIエージェント",
+      "GPUと推論コスト",
+      "AI規制",
+      "オープンソースAI"
+    ],
+    "search_queries": [
+      "LLM 新モデル 発表",
+      "AI エージェント 開発 最新",
+      "GPU 供給 NVIDIA",
+      "AI 規制 日本 法案",
+      "オープンソース LLM 最新"
+    ],
+    "preferred_domains": [
+      "zenn.dev",
+      "itmedia.co.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_37c718d3"
+  },
+  {
+    "name": "Priya Sharma",
+    "age": 35,
+    "occupation": "サイバーセキュリティ・アナリスト",
+    "location": "シンガポール",
+    "bio": "金融機関向けに脅威情報を分析。ランサムウェア、ゼロデイ、国家支援の攻撃、規制の変更を追う。",
+    "interests": [
+      "ランサムウェア",
+      "ゼロデイ脆弱性",
+      "国家支援サイバー攻撃",
+      "セキュリティ規制",
+      "AIとセキュリティ"
+    ],
+    "search_queries": [
+      "ransomware attack this week",
+      "zero-day vulnerability exploited",
+      "state-sponsored cyber attack 2026",
+      "cybersecurity regulation Asia",
+      "AI security threat"
+    ],
+    "preferred_domains": [
+      "thehackernews.com",
+      "bleepingcomputer.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_2447d981"
+  },
+  {
+    "name": "藤田 悟",
+    "age": 55,
+    "occupation": "個人投資家（元銀行員）",
+    "location": "愛知・名古屋",
+    "bio": "日本株と米国株を長期運用。日銀の金融政策、円相場、半導体株、高配当株を毎日確認する。",
+    "interests": [
+      "日銀の金融政策",
+      "円相場",
+      "半導体株",
+      "高配当株",
+      "米国経済指標"
+    ],
+    "search_queries": [
+      "日銀 利上げ 次回",
+      "円相場 見通し",
+      "半導体株 決算",
+      "高配当株 ランキング",
+      "米国 CPI 雇用統計 結果"
+    ],
+    "preferred_domains": [
+      "nikkei.com",
+      "kabutan.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_e05d955c"
+  },
+  {
+    "name": "James Whitfield",
+    "age": 49,
+    "occupation": "ヘッジファンドのマクロ戦略家",
+    "location": "米国・ニューヨーク",
+    "bio": "FRB、地政学、原油、国債利回りを見て相場を張る。関税と貿易政策、中国経済の減速が主戦場。",
+    "interests": [
+      "FRBの金融政策",
+      "米国債利回り",
+      "関税・貿易政策",
+      "中国経済",
+      "原油価格"
+    ],
+    "search_queries": [
+      "Fed rate decision",
+      "Treasury yields news",
+      "tariff trade policy latest",
+      "China economy slowdown 2026",
+      "oil price OPEC"
+    ],
+    "preferred_domains": [
+      "bloomberg.com",
+      "ft.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_58947c06"
+  },
+  {
+    "name": "Luca Bianchi",
+    "age": 32,
+    "occupation": "暗号資産トレーダー兼ブロガー",
+    "location": "ドバイ",
+    "bio": "ビットコインETF、ステーブルコイン規制、DeFiのハッキング事件を追う。各国の規制動向に敏感。",
+    "interests": [
+      "ビットコイン",
+      "ステーブルコイン規制",
+      "DeFi",
+      "暗号資産ETF",
+      "取引所のハッキング"
+    ],
+    "search_queries": [
+      "Bitcoin price news",
+      "stablecoin regulation 2026",
+      "crypto exchange hack",
+      "Ethereum upgrade",
+      "crypto ETF approval"
+    ],
+    "preferred_domains": [
+      "coindesk.com",
+      "theblock.co"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_173fba17"
+  },
+  {
+    "name": "渡辺 清",
+    "age": 71,
+    "occupation": "年金生活者・元公務員",
+    "location": "広島",
+    "bio": "年金と医療費、物価が心配。国会の動き、選挙、地元の政治、高齢者向け制度の改正を新聞で追う。",
+    "interests": [
+      "年金制度",
+      "高齢者医療費",
+      "国政選挙",
+      "物価高対策",
+      "地方政治"
+    ],
+    "search_queries": [
+      "年金 改正 2026",
+      "高齢者 医療費 負担 見直し",
+      "国会 法案 審議",
+      "選挙 情勢 最新",
+      "広島 県政 ニュース"
+    ],
+    "preferred_domains": [
+      "nhk.or.jp",
+      "chugoku-np.co.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_066afca7"
+  },
+  {
+    "name": "石井 麻衣",
+    "age": 40,
+    "occupation": "国会議員の政策秘書",
+    "location": "東京・永田町",
+    "bio": "法案の審議日程、世論調査、党内の動き、外交日程を毎日整理する。国際情勢が国内政治にどう響くかを考える。",
+    "interests": [
+      "国会審議",
+      "世論調査",
+      "外交・首脳会談",
+      "与野党の動き",
+      "選挙制度"
+    ],
+    "search_queries": [
+      "国会 今週 審議 法案",
+      "内閣支持率 最新 世論調査",
+      "首脳会談 日程 外務省",
+      "与党 野党 攻防",
+      "選挙 制度 改革 議論"
+    ],
+    "preferred_domains": [
+      "asahi.com",
+      "yomiuri.co.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_71d2f0e8"
+  },
+  {
+    "name": "Hans Weber",
+    "age": 50,
+    "occupation": "ドイツの製造業（自動車部品）の工場長",
+    "location": "ドイツ・シュトゥットガルト",
+    "bio": "EV転換とエネルギー価格、中国メーカーの欧州進出、EUの規制に頭を悩ませる。",
+    "interests": [
+      "自動車産業のEV転換",
+      "欧州のエネルギー価格",
+      "中国EVメーカー",
+      "EU規制",
+      "ドイツ経済"
+    ],
+    "search_queries": [
+      "German auto industry news",
+      "EU EV regulation 2035",
+      "Chinese EV Europe tariffs",
+      "Germany energy price industry",
+      "Volkswagen Mercedes BMW news"
+    ],
+    "preferred_domains": [
+      "handelsblatt.com",
+      "reuters.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_dfada12f"
+  },
+  {
+    "name": "Fatima Al-Sayed",
+    "age": 38,
+    "occupation": "中東情勢の研究者",
+    "location": "英国・オックスフォード",
+    "bio": "ガザ、イラン、湾岸諸国の外交を研究。停戦交渉、核合意、石油政治を追う。",
+    "interests": [
+      "中東和平",
+      "イラン情勢",
+      "湾岸諸国の外交",
+      "エネルギー地政学",
+      "難民問題"
+    ],
+    "search_queries": [
+      "Gaza ceasefire talks latest",
+      "Iran nuclear news",
+      "Saudi Arabia UAE diplomacy",
+      "Middle East oil politics",
+      "Syria Lebanon news"
+    ],
+    "preferred_domains": [
+      "aljazeera.com",
+      "reuters.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_ba238021"
+  },
+  {
+    "name": "Olena Kovalenko",
+    "age": 34,
+    "occupation": "ウクライナ出身のジャーナリスト",
+    "location": "ポーランド・ワルシャワ",
+    "bio": "ロシア・ウクライナ戦争、欧州の安全保障、NATO、制裁、復興支援を取材する。",
+    "interests": [
+      "ロシア・ウクライナ戦争",
+      "NATO",
+      "対ロシア制裁",
+      "欧州の防衛",
+      "ウクライナ復興"
+    ],
+    "search_queries": [
+      "Ukraine war latest",
+      "NATO defense spending",
+      "Russia sanctions news",
+      "Ukraine peace talks",
+      "Europe defense industry"
+    ],
+    "preferred_domains": [
+      "kyivindependent.com",
+      "politico.eu"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_60482302"
+  },
+  {
+    "name": "陳 偉 (Chen Wei)",
+    "age": 43,
+    "occupation": "台湾の半導体装置商社の営業部長",
+    "location": "台湾・新竹",
+    "bio": "TSMCの投資計画、米中の輸出規制、日本の熊本工場、半導体サイクルを追う。",
+    "interests": [
+      "半導体産業",
+      "TSMC",
+      "米中の輸出規制",
+      "台湾情勢",
+      "日本の半導体投資"
+    ],
+    "search_queries": [
+      "TSMC news this week",
+      "semiconductor export controls China",
+      "Rapidus 熊本 半導体 工場",
+      "Taiwan China tension",
+      "chip demand AI 2026"
+    ],
+    "preferred_domains": [
+      "digitimes.com",
+      "eetimes.jp"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_d4a39339"
+  },
+  {
+    "name": "小川 直人",
+    "age": 46,
+    "occupation": "不動産会社の営業マネージャー",
+    "location": "東京・湾岸",
+    "bio": "タワーマンションの価格、住宅ローン金利、外国人投資家、建築費の高騰を追う。",
+    "interests": [
+      "マンション価格",
+      "住宅ローン金利",
+      "建築費高騰",
+      "不動産投資",
+      "都市再開発"
+    ],
+    "search_queries": [
+      "マンション 価格 東京 最新",
+      "住宅ローン 金利 上昇",
+      "建築費 高騰 2026",
+      "不動産 外国人 投資 規制",
+      "再開発 東京 計画"
+    ],
+    "preferred_domains": [
+      "kenbiya.com",
+      "nikkei.com"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_5efa0fb2"
+  },
+  {
+    "name": "Nguyen Thi Lan",
+    "age": 25,
+    "occupation": "ベトナムの縫製工場の生産管理",
+    "location": "ベトナム・ホーチミン",
+    "bio": "欧米ブランドの発注動向、関税、最低賃金、中国からの生産移転を追う。",
+    "interests": [
+      "アパレルのサプライチェーン",
+      "ベトナム経済",
+      "米国の関税",
+      "最低賃金",
+      "生産移転（チャイナプラスワン）"
+    ],
+    "search_queries": [
+      "Vietnam garment export news",
+      "US tariff Vietnam 2026",
+      "Vietnam minimum wage 2027",
+      "apparel supply chain shift",
+      "Vietnam economy growth"
+    ],
+    "preferred_domains": [
+      "vnexpress.net"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_e413e064"
+  },
+  {
+    "name": "山口 恭子",
+    "age": 53,
+    "occupation": "環境NPOの事務局長",
+    "location": "熊本",
+    "bio": "気候変動政策、再エネ、洋上風力、生物多様性、脱炭素の企業動向を追う。COPの議論も。",
+    "interests": [
+      "気候変動政策",
+      "再生可能エネルギー",
+      "洋上風力",
+      "生物多様性",
+      "企業の脱炭素"
+    ],
+    "search_queries": [
+      "COP 気候変動 会議 2026",
+      "再エネ 導入 日本 最新",
+      "洋上風力 入札 結果",
+      "生物多様性 ネイチャーポジティブ",
+      "脱炭素 企業 目標"
+    ],
+    "preferred_domains": [
+      "kankyo-business.jp",
+      "env.go.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_cca3da75"
+  },
+  {
+    "name": "Erik Lindqvist",
+    "age": 42,
+    "occupation": "スウェーデンのエネルギー会社の戦略担当",
+    "location": "スウェーデン・ストックホルム",
+    "bio": "原発の新設、電力価格、送電網、水素、EUのエネルギー政策を追う。",
+    "interests": [
+      "原子力発電",
+      "欧州の電力市場",
+      "送電網の投資",
+      "水素エネルギー",
+      "EUエネルギー政策"
+    ],
+    "search_queries": [
+      "nuclear power new reactor Europe",
+      "electricity price Europe 2026",
+      "grid investment Europe",
+      "hydrogen energy project",
+      "EU energy policy news"
+    ],
+    "preferred_domains": [
+      "euractiv.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_c6ba1b9d"
+  },
+  {
+    "name": "平野 圭",
+    "age": 60,
+    "occupation": "元新聞記者・歴史作家",
+    "location": "奈良",
+    "bio": "日本史と考古学の新発見、文化財、戦後史の資料公開、歴史認識をめぐる論争を追う。",
+    "interests": [
+      "考古学の新発見",
+      "文化財保護",
+      "戦後史",
+      "歴史認識問題",
+      "博物館・展覧会"
+    ],
+    "search_queries": [
+      "考古学 発見 古墳 2026",
+      "文化財 修復 ニュース",
+      "歴史 資料 公開 外交文書",
+      "歴史 展覧会 開催",
+      "世界遺産 登録 日本"
+    ],
+    "preferred_domains": [
+      "bunka.go.jp",
+      "kotobank.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_3c9d30fa"
+  },
+  {
+    "name": "Abdullah Rahman",
+    "age": 36,
+    "occupation": "イスラム教のイマーム兼宗教学者",
+    "location": "マレーシア・クアラルンプール",
+    "bio": "宗教と社会、ハラール産業、宗教間対話、東南アジアの政治と宗教の関係を追う。",
+    "interests": [
+      "宗教と社会",
+      "ハラール産業",
+      "宗教間対話",
+      "東南アジアの政治",
+      "イスラム金融"
+    ],
+    "search_queries": [
+      "Islamic finance news",
+      "halal industry growth",
+      "interfaith dialogue news",
+      "Malaysia politics religion",
+      "Muslim community news Asia"
+    ],
+    "preferred_domains": [
+      "thestar.com.my"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_2d42349d"
+  },
+  {
+    "name": "河合 直子",
+    "age": 38,
+    "occupation": "企業法務の弁護士",
+    "location": "大阪・北浜",
+    "bio": "個人情報保護法の改正、AIと著作権、独占禁止法、労働法の改正、企業の不祥事対応を追う。",
+    "interests": [
+      "個人情報保護法",
+      "AIと著作権",
+      "独占禁止法",
+      "労働法改正",
+      "企業不祥事"
+    ],
+    "search_queries": [
+      "個人情報保護法 改正 2026",
+      "生成AI 著作権 訴訟",
+      "独占禁止法 巨大IT",
+      "労働基準法 改正 議論",
+      "企業 不祥事 第三者委員会"
+    ],
+    "preferred_domains": [
+      "business.nikkei.com",
+      "moj.go.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_0db77a1d"
+  },
+  {
+    "name": "Tom Nguyen",
+    "age": 29,
+    "occupation": "労働組合のオーガナイザー",
+    "location": "米国・デトロイト",
+    "bio": "自動車産業の労使交渉、最低賃金、AIによる雇用喪失、ギグワーカーの権利を追う。",
+    "interests": [
+      "労働組合",
+      "自動車産業の雇用",
+      "最低賃金",
+      "AIと雇用",
+      "ギグワーカー"
+    ],
+    "search_queries": [
+      "UAW news",
+      "minimum wage increase 2026",
+      "AI job losses report",
+      "gig worker rights law",
+      "union strike news"
+    ],
+    "preferred_domains": [
+      "laborNotes.org",
+      "npr.org"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_212c303a"
+  },
+  {
+    "name": "宮本 剛",
+    "age": 50,
+    "occupation": "釣具店の店主・釣り歴40年",
+    "location": "静岡・焼津",
+    "bio": "魚の回遊状況、海水温、漁業規制、釣り具の新製品、海洋環境の変化を追う。",
+    "interests": [
+      "海釣り",
+      "海水温と魚の回遊",
+      "漁業規制",
+      "釣り具",
+      "海洋環境"
+    ],
+    "search_queries": [
+      "海水温 上昇 魚 影響",
+      "サバ サンマ 漁獲 2026",
+      "釣り 規制 変更",
+      "釣り具 新製品 発表",
+      "駿河湾 釣果 最新"
+    ],
+    "preferred_domains": [
+      "tsurinews.jp",
+      "jfa.maff.go.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_f024743b"
+  },
+  {
+    "name": "岡田 徹",
+    "age": 44,
+    "occupation": "自動車雑誌の編集者",
+    "location": "東京・日野",
+    "bio": "新車発表、EVとハイブリッドの販売動向、モーターショー、自動運転の法整備、旧車市場を追う。",
+    "interests": [
+      "新車発表",
+      "EV・ハイブリッドの販売",
+      "自動運転",
+      "モーターショー",
+      "旧車・クラシックカー"
+    ],
+    "search_queries": [
+      "新車 発表 今週",
+      "EV 販売台数 日本 2026",
+      "自動運転 レベル4 解禁",
+      "ジャパンモビリティショー",
+      "旧車 オークション 高騰"
+    ],
+    "preferred_domains": [
+      "car.watch.impress.co.jp",
+      "response.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_bf03a0d5"
+  },
+  {
+    "name": "柴田 一郎",
+    "age": 65,
+    "occupation": "鉄道愛好家・元JR職員",
+    "location": "岡山",
+    "bio": "新幹線の延伸、ローカル線の廃止議論、新型車両、ダイヤ改正、鉄道の海外展開を追う。",
+    "interests": [
+      "新幹線延伸",
+      "ローカル線の存廃",
+      "新型車両",
+      "ダイヤ改正",
+      "鉄道の海外展開"
+    ],
+    "search_queries": [
+      "北陸新幹線 延伸 ルート",
+      "ローカル線 廃止 議論 2026",
+      "新型車両 デビュー",
+      "ダイヤ改正 2027",
+      "日本 鉄道 海外 受注"
+    ],
+    "preferred_domains": [
+      "tetsudo.com",
+      "trafficnews.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_af97605f"
+  },
+  {
+    "name": "三浦 陽子",
+    "age": 33,
+    "occupation": "地方移住したフリーランスの園芸家",
+    "location": "長野・松本",
+    "bio": "家庭菜園、種苗法、気候変動と農作物、DIY、田舎暮らしの制度支援を追う。",
+    "interests": [
+      "園芸・家庭菜園",
+      "種苗と品種",
+      "気候と作物",
+      "DIY・古民家",
+      "地方移住"
+    ],
+    "search_queries": [
+      "家庭菜園 秋 植え付け",
+      "種苗法 登録品種 ニュース",
+      "猛暑 野菜 不作 2026",
+      "古民家 DIY 補助金",
+      "地方移住 支援 制度"
+    ],
+    "preferred_domains": [
+      "gardenstory.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_629c110b"
+  },
+  {
+    "name": "Carlos Mendes",
+    "age": 40,
+    "occupation": "ブラジルの旅行代理店経営者",
+    "location": "ブラジル・サンパウロ",
+    "bio": "航空運賃、為替、ビザ緩和、オーバーツーリズム、日本への旅行需要を追う。",
+    "interests": [
+      "国際航空運賃",
+      "為替と旅行需要",
+      "ビザ政策",
+      "オーバーツーリズム",
+      "日本旅行ブーム"
+    ],
+    "search_queries": [
+      "airline news South America",
+      "Japan tourism record 2026",
+      "visa waiver news",
+      "overtourism Kyoto measures",
+      "travel demand 2026"
+    ],
+    "preferred_domains": [
+      "skift.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_749dd597"
+  },
+  {
+    "name": "Grace Mwangi",
+    "age": 30,
+    "occupation": "ケニアのフィンテック企業のプロダクトマネージャー",
+    "location": "ケニア・ナイロビ",
+    "bio": "モバイルマネー、アフリカのスタートアップ投資、中国とアフリカの関係、気候ファイナンスを追う。",
+    "interests": [
+      "モバイルマネー",
+      "アフリカのスタートアップ",
+      "中国とアフリカ",
+      "気候ファイナンス",
+      "ケニア経済"
+    ],
+    "search_queries": [
+      "M-Pesa news",
+      "Africa startup funding 2026",
+      "China Africa investment",
+      "Kenya economy news",
+      "climate finance Africa"
+    ],
+    "preferred_domains": [
+      "techcabal.com",
+      "theeastafrican.co.ke"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_4cfc9f26"
+  },
+  {
+    "name": "Diego Ramírez",
+    "age": 27,
+    "occupation": "メキシコの自動車工場のエンジニア",
+    "location": "メキシコ・モンテレイ",
+    "bio": "米国との関税・USMCA、ニアショアリング、日本メーカーの投資、移民政策を追う。",
+    "interests": [
+      "USMCAと関税",
+      "ニアショアリング",
+      "日系自動車メーカーの投資",
+      "移民政策",
+      "メキシコ経済"
+    ],
+    "search_queries": [
+      "USMCA review 2026",
+      "nearshoring Mexico news",
+      "Japanese automaker Mexico investment",
+      "US Mexico tariffs",
+      "Mexico economy peso"
+    ],
+    "preferred_domains": [
+      "mexiconewsdaily.com"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_6f60eb52"
+  },
+  {
+    "name": "加藤 望",
+    "age": 21,
+    "occupation": "看護学生（3年）",
+    "location": "宮城・仙台",
+    "bio": "看護師の待遇、国家試験、医療現場の人手不足、災害医療、メンタルヘルスを追う。",
+    "interests": [
+      "看護師の待遇",
+      "看護師国家試験",
+      "医療の人手不足",
+      "災害医療",
+      "若者のメンタルヘルス"
+    ],
+    "search_queries": [
+      "看護師 給与 引き上げ 2026",
+      "看護師 国家試験 2027 日程",
+      "病院 人手不足 閉鎖",
+      "災害 医療 訓練",
+      "若者 メンタルヘルス 調査"
+    ],
+    "preferred_domains": [
+      "kango-roo.com"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_b5e3b29a"
+  },
+  {
+    "name": "福田 誠",
+    "age": 57,
+    "occupation": "中小企業（金属加工）の社長",
+    "location": "大阪・東大阪",
+    "bio": "人手不足、最低賃金、価格転嫁、事業承継、補助金、円安と原材料費を追う。",
+    "interests": [
+      "中小企業の人手不足",
+      "価格転嫁",
+      "事業承継",
+      "補助金・助成金",
+      "原材料費と円安"
+    ],
+    "search_queries": [
+      "中小企業 価格転嫁 調査",
+      "最低賃金 引き上げ 影響 中小",
+      "事業承継 補助金 2026",
+      "外国人 技能実習 育成就労 制度",
+      "鉄 銅 原材料 価格 高騰"
+    ],
+    "preferred_domains": [
+      "smrj.go.jp",
+      "chusho.meti.go.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_8263db4e"
+  },
+  {
+    "name": "Yuki Tanaka-Brown",
+    "age": 35,
+    "occupation": "在米日本人の宇宙開発エンジニア",
+    "location": "米国・ロサンゼルス",
+    "bio": "SpaceXとNASA、月探査、日本のH3ロケット、衛星コンステレーション、宇宙ビジネス投資を追う。",
+    "interests": [
+      "月探査計画",
+      "ロケット打ち上げ",
+      "衛星コンステレーション",
+      "宇宙ビジネス",
+      "天文学の発見"
+    ],
+    "search_queries": [
+      "SpaceX Starship launch",
+      "Artemis moon mission update",
+      "H3 ロケット 打ち上げ",
+      "Starlink competitor news",
+      "space telescope discovery 2026"
+    ],
+    "preferred_domains": [
+      "spacenews.com",
+      "sorae.info"
+    ],
+    "rss_feeds": [],
+    "language": "en",
+    "id": "p_553a45df"
+  },
+  {
+    "name": "島田 芳江",
+    "age": 74,
+    "occupation": "町内会長・元小学校教員",
+    "location": "鹿児島・霧島",
+    "bio": "地域の防災、火山と地震、高齢者の見守り、路線バスの減便、地方の人口減少を追う。",
+    "interests": [
+      "地域防災",
+      "火山・地震",
+      "高齢者の見守り",
+      "地方の公共交通",
+      "人口減少"
+    ],
+    "search_queries": [
+      "桜島 噴火 警戒 最新",
+      "南海トラフ 地震 備え",
+      "高齢者 見守り 自治体",
+      "路線バス 減便 地方",
+      "人口減少 自治体 消滅"
+    ],
+    "preferred_domains": [
+      "373news.com",
+      "jma.go.jp"
+    ],
+    "rss_feeds": [],
+    "language": "ja",
+    "id": "p_07c88c3c"
+  }
+]
